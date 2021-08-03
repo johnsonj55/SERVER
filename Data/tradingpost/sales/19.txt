@@ -1,0 +1,1 @@
+big range	20784	1	0	92595479	0	false

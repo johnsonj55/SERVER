@@ -1,0 +1,1 @@
+big range	379	1	0	151	0	true
